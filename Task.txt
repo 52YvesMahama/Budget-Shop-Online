@@ -1,0 +1,15 @@
+step 1 create a table as shown in the website in your database
+step 2 create a file called payment.php. In this file create a form as shown in the website
+step 3 create another file called processpayment.php. In this file write the following code:
+
+1) retrieve the values entered by the user in payment.php
+2) Compare them with the values in the table you created in step 1 above. If successful, direct the user to a file saying payment 
+successful
+Remember code here is same as the one you have in login.php
+
+
+LAST ADDITION: 
+Google search how to display the products as a pdf.
+
+Look for :
+php code for pdf of database resultset

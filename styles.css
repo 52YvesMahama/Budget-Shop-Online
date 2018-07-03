@@ -1,0 +1,484 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+
+	background-image: url(image1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 16px;
+	font-family: arial,sans-serif;
+	margin-bottom: 120px;
+}
+h1{
+	padding-top:10px;
+	top:100px;
+	color:white;
+	font-size:40px;
+	color:#fff;
+	text-align: center;
+
+	
+}
+#yvess{
+	color: white;
+}
+header {
+	top:20px;	
+	height:120px;
+	margin:0 auto;
+	position:relative;
+	/*		width: 1500px;
+
+
+
+ Gray border */ 	
+}
+
+.logo{
+	position: absolute;
+	left: 0px;
+	top: 7px;
+ 
+}
+img{
+
+	width: 140px;
+	height: 110px;
+}
+
+.nav{
+	
+	width: 1000px;
+	height: 60px;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding-bottom:30px;
+
+}
+ul li{
+	line-height: 60px;
+	position: relative;
+	width: 200px;
+	list-style: none;
+	background: #223;
+	text-align: center;
+	box-shadow:  0px 0px 5px 9px grey;
+	float: left;
+
+
+}
+.nav ul li:nth-of-type(1){
+
+	border-radius: 5px 0px 0px 5px;
+}
+.nav ul li:nth-of-type(5){
+
+	border-radius: 0px 5px 5px 0px;
+}
+ ul li a{
+    text-align: center;
+	color: yellow;
+	width: 200px;
+	height: 58px;
+	display: block;
+	text-decoration: none;
+}
+
+.container{
+	background:	#808080 ;
+	width: 999px;
+	height: 648px;
+	margin: 0 auto;
+	border: 3px solid red;
+	margin-top:15px; 
+	padding-left:3px;
+	padding-bottom:1px;
+}
+
+#subcontainer{
+		background: #ffcc80;
+		height: 614px;
+		width: 299px;
+		float: right;
+		margin-right: 3px;
+		margin-top: 3px;
+		margin-bottom: 3px;
+		border:5px solid black; 
+		padding-bottom:10px;
+		padding-top:10px;
+		text-align:10px;
+		letter-spacing:1px;
+		line-height:40px;
+}
+#img{
+	height:200px;
+	background-size:400px;
+	padding:399px 576px;
+}
+#subcontainer2{
+
+		background:#eee;
+		height: 634px;
+		width: 674px;
+		float: left;
+		margin-right: 3px;
+		margin-top: 3px;
+		margin-bottom: 3px;
+		margin-left: 3pxx;
+		border:5px solid black; 
+		line-height:30px;
+		text-align:auto;
+}
+
+ul li a:hover{
+	background-color: orange;
+
+
+}
+#yves {
+	padding-top: 10px;
+	margin-right:10px;
+	margin-left:10px;
+	width:650px;
+	height:420px;
+}
+#noble{
+	color:yellow;
+	text-align: center;	
+	word-wrap: break-word;
+	padding-bottom:10px;
+	text-decoration:bold;
+}
+	
+#mahama1{
+
+	background:#eee;
+	height: 634px;
+	width: 675px;
+	float: left;
+	margin-right: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left: 113pxx;
+	border:5px solid black; 
+	width
+		
+}
+#yvesss {
+	padding-top: 10px;
+	margin-right:10px;
+	margin-left:10px;
+	width:650px;
+	height:300px;
+}
+
+#yvessss{
+	font-size:25px;
+	color:red;
+	padding-right:30px;
+	padding-left:30px;
+	text-align:center;
+	
+	}
+#iii{
+	padding-left:30px;
+	font-size:15px
+	
+}
+
+#iiii{
+	padding-left:30px;
+	font-size:14px;	
+}
+
+#tt{
+	color:yellow;
+	font-size:20px;
+	font-weight: bold;
+	text-align:center;
+}
+
+#ttt{
+	color:##ffffff;
+	font-size:20px;
+	font-weight: bold;
+	text-align:center;
+}
+#yvvess{
+	color:#fff;
+	font-size:20px;
+	font-weight: bold;
+	text-align:center;
+}
+#i{
+	padding-right:10px;
+	padding-left:30px;
+}
+#iiy{
+	margin-bottom:40px; 
+	margin-left:40px; 
+	line-height:90px;
+	margin-right:40px; 
+	margin-top:20px; 
+	color:white;
+}
+
+#yy{
+	color:black;
+	text-decoration: underline; 
+	text-align:center;		
+	padding-left:15px;
+	
+	color:#000;
+	text-align: center;	
+	word-wrap: break-word;
+	padding-bottom:10px;
+	text-decoration:bold;
+	padding-top:30px;
+	font-size:20px;
+}
+
+#yyvvee{
+	color:black;
+	padding-bottom:100px;
+	padding-left:40px;
+	font-size:15px;
+}
+
+
+#yyvy{
+	color:black;
+	text-decoration: none; 
+	padding-left:30px;
+	padding-bottom:30px;
+}
+
+#yyvyy{
+	color:black;
+	text-decoration: none; 
+	padding-left:30px;
+}
+#yvesmah{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	padding-bottom:50px;
+}
+#nobleew{
+	color:#000;
+	text-align: center;	
+	word-wrap: break-word;
+	padding-bottom:10px;
+	text-decoration:bold;
+	padding-top:30px;
+	font-size:20px;
+}
+
+#yyvyyy{
+	color:black;
+	text-decoration:none; 
+	padding-left:80px;
+	font-size:17px;
+	padding-bottom:10px;
+	padding-top:40px;
+	line-height:70px;
+}
+
+#yyvyyyy{
+	color:black;
+	text-decoration:none; 
+	padding-left:80px;
+	font-size:17px;
+	padding-bottom:10px;
+	padding-top:20px;
+	line-height:60px;
+}
+
+
+
+
+
+.navvv{
+	
+	width: 1000px;
+	height: 60px;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding-bottom:30px;
+
+}
+ul li{
+	line-height: 60px;
+	position: relative;
+	width: 200px;
+	list-style: none;
+	background: #223;
+	text-align: center;
+	box-shadow:  0px 0px 5px 9px grey;
+	float: left;
+
+
+}
+.navv ul li:nth-of-type(1){
+
+	border-radius: 5px 0px 0px 5px;
+}
+.navv ul li:nth-of-type(5){
+
+	border-radius: 0px 5px 5px 0px;
+}
+ ul li a{
+    text-align: center;
+	width: 200px;
+	height: 58px;
+	display: block;
+	text-decoration: none;
+}
+
+/*
+
+
+.container{
+	width:500px;
+	height:400px;
+	text-align:center;
+	background-color: rgba(52, 73, 94, 0.7);
+	margin:0 auto; 
+	border-radius:4px;
+	margin-top:150px;
+}
+
+
+
+.container{
+	width:50px;
+	height:40px;
+	text-align:center;
+	background-color: rgba(52, 73, 94, 0.7);
+	margin:0 auto; 
+	border-radius:4px;
+	margin-top:150px;
+}
+.container img{
+	width:12px;
+	height:12px;
+	margin-top:-60px;
+	margin-bottom:30px;
+}
+input {
+	height:45px;
+	width:300px;
+	font-size:18px;
+	margin-bottom:20px;
+	background-color: #fff;
+	padding-left:30px;
+}
+.form-input ::before{
+	content: "\f007";
+	position: absolute;
+	font-family:"FontAwesome";
+	font-size:30px;
+}
+.btn-login{
+	padding:15px 15px;
+	cursor:pointer;
+	color: #fff;
+	border-radius:4px;
+	background-color: #0000b3;
+	border:10px; solid #06f;
+	margin-bottom:20px;
+}
+a{
+	color:#fff;
+}
+
+#yvvv{
+	color:#fff;
+	font-size:15px;
+	font-weight: bold;
+	font-family:verdana;
+}
+*/
+
+.navvvv ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 100;
+  margin: 0;
+}
+.navvvv ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+
+  
+}
+.navvvv li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 10px;
+  height: 10px;
+  border-bottom: 1px solid #888;
+    padding-left:1px;
+
+}
+
+.navvvv a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+
+}
+ 
+.navvvv a:hover {
+  /**background-color: #005f5f;  orange; **/
+  background-color:   orange; 							            YVES Mahama
+}
+ 
+.navvvv a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+
+@media screen and (min-width: 600px) {
+  .navvvv li {
+    width: 200px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 35px;
+    font-size: 0.9em;
+	padding-left:190px;
+  text-align: center;
+
+
+
+  }
+ 
+  /* Option 1 - Display Inline */
+  .navvvv li {
+    display: inline-block;
+
+  }
+ 
+  /* Options 2 - Float
+  .nav li {
+    float: left;
+  }
+  .nav ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+  }
+  .nav {
+    background-color: #444;
+  }
+  */
+}
